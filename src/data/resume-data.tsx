@@ -32,6 +32,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "valentin.courtaud@skema.edu",
+    tel: "+330695308946"
     social: [
       {
         name: "LinkedIn",
