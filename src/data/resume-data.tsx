@@ -64,8 +64,8 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "◼ Sourcing, analysing and benchmarking startups to support large companies' open innovation policies.
-	 ◼ Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
+        "Sourcing, analysing and benchmarking startups to support large companies' open innovation policies.
+	 Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
     },
     {
       company: "Doctolib",
@@ -77,8 +77,8 @@ export const RESUME_DATA = {
       end: "2015",
       description:
         "Revise the B2B subscription model's pricing and packaging strategy in France by:
-	◼ Assessing how various medical specialties value and use Doctolib to inform pricing strategies.
-    	◼ Developing segment-specific pricing and packages to boost market penetration and ARPU.",
+	Assessing how various medical specialties value and use Doctolib to inform pricing strategies.
+    	Developing segment-specific pricing and packages to boost market penetration and ARPU.",
     },
     {
       company: "imicare",
@@ -89,8 +89,8 @@ export const RESUME_DATA = {
       start: "Mai 2022",
       end: "August 2022",
       description:
-        "◼ Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients.
-         ◼ Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
+        "Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients.
+         Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
     },
   ],
   Knowledge: [
