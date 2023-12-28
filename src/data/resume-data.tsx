@@ -110,4 +110,5 @@ export const RESUME_DATA = {
         href: "https://www.reboot-asso.com/",
       },
     },
+  ],
 } as const;
