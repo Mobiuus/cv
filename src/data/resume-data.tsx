@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "Sourcing, analysing and benchmarking startups to support large companies' open innovation policies.
+        "Sourcing, analysing and benchmarking startups to support large companies open innovation policies.
 	 Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
     },
     {
