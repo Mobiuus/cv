@@ -21,7 +21,7 @@ import { XIcon } from "@/components/icons/XIcon";
 
 export const RESUME_DATA = {
   name: "Valentin Courtaud",
-  initials: "CV",
+  initials: "",
   location: "Paris",
   locationLink: "https://www.google.com/maps/place/Paris",
   about:
