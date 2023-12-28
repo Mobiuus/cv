@@ -70,7 +70,7 @@ export const RESUME_DATA = {
     {
       company: "Doctolib",
       link: "https://www.linkedin.com/company/doctolib/",
-      badges: [Internship],
+      badges: ["Internship"],
       title: "Product Operations Analyst",
       logo: JojoMobileLogo,
       start: "2012",
