@@ -25,18 +25,18 @@ export const RESUME_DATA = {
   location: "Paris",
   locationLink: "https://www.google.com/maps/place/Paris",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Student in Corporate Finance at Skema Business School",
   summary:
-    "Student in Corporate Finance at Skema Business School. Interested in tech, healthcare and climate related topics. Currently in Erasmus in Sweden.",
-  avatarUrl: "https://media.licdn.com/dms/image/D4E03AQEt0Q9YIq5APg/profile-displayphoto-shrink_400_400/0/1691239241980?e=1709164800&v=beta&t=bURNZZntMOroHe3S4lI38__MD6kMJiXkDbMHqPnyhkQ",
-  personalWebsiteUrl: "https://jarocki.me",
+    "Interested in tech, healthcare and climate related topics.<br>Democratizing sustainable finance with re.boot.<br>Currently in Erasmus in Sweden.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
+  personalWebsiteUrl: "https://valentin.vc",
   contact: {
     email: "valentin.courtaud@skema.edu",
     tel: "+330695308946",
     social: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/valentin-courtaud/",
         icon: LinkedInIcon,
       },
     ],
@@ -65,7 +65,7 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "Sourcing, analysing and benchmarking startups to support large companies open innovation policies. Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
+        "Sourcing, analysing and benchmarking startups to support large companies open innovation policies.<br>Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
     },
     {
       company: "Doctolib",
@@ -73,10 +73,10 @@ export const RESUME_DATA = {
       badges: ["Internship"],
       title: "Product Operations Analyst",
       logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
+      start: "January 2023",
+      end: "June 2023",
       description:
-        "Revise the B2B subscription model's pricing and packaging strategy in France by: Assessing how various medical specialties value and use Doctolib to inform pricing strategies. Developing segment-specific pricing and packages to boost market penetration and ARPU.",
+        "Revise the B2B subscription model's pricing and packaging strategy in France by:<br>Assessing how various medical specialties value and use Doctolib to inform pricing strategies.<br>Developing segment-specific pricing and packages to boost market penetration and ARPU.",
     },
     {
       company: "imicare",
@@ -87,7 +87,7 @@ export const RESUME_DATA = {
       start: "Mai 2022",
       end: "August 2022",
       description:
-        "Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients. Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
+        "Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients.<br>Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
     },
   ],
   skills: [
