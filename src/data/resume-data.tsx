@@ -90,12 +90,10 @@ export const RESUME_DATA = {
         "Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients. Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
     },
   ],
-  Knowledge: [
-    "Tech ecosystem",
-    "Healthcare ecosystem",
-    "Sustainable finance ecosystem",
+  Skills: [
     "Project Management",
     "Microsoft Office suite",
+    "SQL",
     "No-code tools",
   ],
   projects: [
