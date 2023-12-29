@@ -26,11 +26,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Paris",
   about:
     "Student in Corporate Finance at Skema Business School",
-  summary: [
-    "Interested in tech, healthcare and climate related topics.",
-    "Democratizing sustainable finance with re.boot.",
-    "Currently in Erasmus in Sweden."
-  ],
+  summary: "Interested in tech, healthcare and climate related topics. Democratizing sustainable finance with re.boot. Currently in Erasmus in Sweden.",
   avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
   personalWebsiteUrl: "https://valentin.vc",
   contact: {
