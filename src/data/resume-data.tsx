@@ -112,14 +112,14 @@ export const RESUME_DATA = {
         href: "https://www.reboot-asso.com/",
       },
       {
-      title: "Finance Fresk",
+      title: "Finance fresk",
       techStack: [
         "Facilitator",
       ],
       description: "Raise awareness of the role of finance in the socio-ecological transition.",
       logo: ConsultlyLogo,
       link: {
-        label: "",
+        label: "https://www.linkedin.com/company/fresque-de-la-finance/",
         href: "https://www.linkedin.com/company/fresque-de-la-finance/",
       },
     },
