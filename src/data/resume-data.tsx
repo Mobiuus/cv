@@ -99,29 +99,26 @@ export const RESUME_DATA = {
     "SQL",
     "No-code tools",
   ],
-  projects: [
-    {
-      title: "re.boot",
-      techStack: [
-        "Associative Project",
-      ],
-      description: "Making sustainable finance the new status quo.",
-      logo: ConsultlyLogo,
-      link: {
-        label: "reboot-asso.com",
-        href: "https://www.reboot-asso.com/",
-      },
-      {
-      title: "Finance fresk",
-      techStack: [
-        "Facilitator",
-      ],
-      description: "Raise awareness of the role of finance in the socio-ecological transition.",
-      logo: ConsultlyLogo,
-      link: {
-        label: "https://www.linkedin.com/company/fresque-de-la-finance/",
-        href: "https://www.linkedin.com/company/fresque-de-la-finance/",
-      },
+ projects: [
+  {
+    title: "re.boot",
+    techStack: ["Associative Project"],
+    description: "Making sustainable finance the new status quo.",
+    logo: ConsultlyLogo, // Ensure 'ConsultlyLogo' is defined or imported correctly
+    link: {
+      label: "reboot-asso.com",
+      href: "https://www.reboot-asso.com/",
     },
-  ],
+  }, // A comma here to separate the objects in the array
+  {
+    title: "Finance Fresk",
+    techStack: ["Facilitator"],
+    description: "Raise awareness of the role of finance in the socio-ecological transition.",
+    logo: ConsultlyLogo, // Ensure 'ConsultlyLogo' is defined or imported correctly
+    link: {
+      label: "https://www.linkedin.com/company/fresque-de-la-finance/",
+      href: "https://www.linkedin.com/company/fresque-de-la-finance/",
+    },
+  },
+],
 } as const;
