@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "Sourcing, analysing and benchmarking startups to support large companies open innovation policies.<br>Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
+        "Sourcing, analysing and benchmarking startups to support large companies open innovation policies.Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
     },
     {
       company: "Doctolib",
@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       start: "January 2023",
       end: "June 2023",
       description:
-        "Revise the B2B subscription model's pricing and packaging strategy in France by:<br>Assessing how various medical specialties value and use Doctolib to inform pricing strategies.<br>Developing segment-specific pricing and packages to boost market penetration and ARPU.",
+        "Revise the B2B subscription model's pricing and packaging strategy in France by:Assessing how various medical specialties value and use Doctolib to inform pricing strategies.Developing segment-specific pricing and packages to boost market penetration and ARPU.",
     },
     {
       company: "imicare",
@@ -86,7 +86,7 @@ export const RESUME_DATA = {
       start: "Mai 2022",
       end: "August 2022",
       description:
-        "Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients.<br>Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
+        "Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients.Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
     },
   ],
   skills: [
@@ -98,7 +98,7 @@ export const RESUME_DATA = {
  projects: [
   {
     title: "re.boot",
-    techStack: ["Associative Project"],
+    techStack: ["Project Manager"],
     description: "Making sustainable finance the new status quo.",
     logo: ConsultlyLogo, // Ensure 'ConsultlyLogo' is defined or imported correctly
     link: {
