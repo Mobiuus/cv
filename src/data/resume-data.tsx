@@ -26,8 +26,11 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Paris",
   about:
     "Student in Corporate Finance at Skema Business School",
-  summary:
-    "Interested in tech, healthcare and climate related topics.<br>Democratizing sustainable finance with re.boot.<br>Currently in Erasmus in Sweden.",
+  summary: [
+    "Interested in tech, healthcare and climate related topics.",
+    "Democratizing sustainable finance with re.boot.",
+    "Currently in Erasmus in Sweden."
+  ],
   avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
   personalWebsiteUrl: "https://valentin.vc",
   contact: {
@@ -102,11 +105,22 @@ export const RESUME_DATA = {
       techStack: [
         "Associative Project",
       ],
-      description: "Democratizing sustainable finance",
+      description: "Making sustainable finance the new status quo.",
       logo: ConsultlyLogo,
       link: {
         label: "reboot-asso.com",
-        href: "https://www.reboot-asso.com/",
+        href: "https://www.linkedin.com/company/rebootfr/",
+      },
+      {
+      title: "Finance Fresk",
+      techStack: [
+        "Facilitator",
+      ],
+      description: "Raise awareness of the role of finance in the socio-ecological transition.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "",
+        href: "https://www.linkedin.com/company/fresque-de-la-finance/",
       },
     },
   ],
