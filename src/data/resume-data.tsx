@@ -109,7 +109,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "reboot-asso.com",
-        href: "https://www.linkedin.com/company/rebootfr/",
+        href: "https://www.reboot-asso.com/",
       },
       {
       title: "Finance Fresk",
