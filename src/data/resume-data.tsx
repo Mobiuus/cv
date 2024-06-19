@@ -25,10 +25,10 @@ export const RESUME_DATA = {
   location: "Paris",
   locationLink: "https://www.google.com/maps/place/Paris",
   about:
-    "Student in Corporate Finance at Skema Business School",
-  summary: "Interested in tech, healthcare and climate related topics.\n" +
-           "Democratizing sustainable finance with re.boot.\n" +
-           "Currently in Erasmus in Sweden.",
+    "Corporate Finance student at Skema Business School",
+  summary: "Interested in tech, healthcare and climate related topics."<br/> +
+           "Democratizing sustainable finance with re.boot."<br/> +
+           "Currently in exchange in Brasil.",
   avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
   personalWebsiteUrl: "https://valentin.vc",
   contact: {
@@ -45,9 +45,11 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Skema Business School",
-      degree: "Master in Management - Specialized in Corporate Finance",
+      degree: "Master in Management - MSc in Corporate Finance" <br/>
+      "Spring 2024: exchange semester Jönköping BS - Sweden" <br/>
+      "Fall 2024: exchange semester in Fundaçao Dom Cabral - Brasil",
       start: "2021",
-      end: "20205",
+      end: "2025",
     },
     {
       school: "Saint-Bénigne Highschool",
@@ -66,7 +68,7 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "• Sourcing, analysing and benchmarking startups to support large companies open innovation policies.\n" +
+        "• Sourcing, analysing and benchmarking startups to support large companies open innovation policies."<br/> +
         "• Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
     },
     {
@@ -78,8 +80,8 @@ export const RESUME_DATA = {
       start: "January 2023",
       end: "June 2023",
       description:
-        "Revise the B2B subscription model's pricing and packaging strategy in France by:\n" +
-        "• Assessing how various medical specialties value and use Doctolib to inform pricing strategies.\n" +
+        "Revise the B2B subscription model's pricing and packaging strategy in France by:"<br/>+
+        "• Assessing how various medical specialties value and use Doctolib to inform pricing strategies."<br/> +
         "• Developing segment-specific pricing and packages to boost market penetration and ARPU.",
     },
     {
@@ -100,6 +102,8 @@ export const RESUME_DATA = {
     "Microsoft Office suite",
     "SQL",
     "No-code tools",
+    "Sustainable finance legislation",  
+    "DTx landscape",
   ],
  projects: [
   {
