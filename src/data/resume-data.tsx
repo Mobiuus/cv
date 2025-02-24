@@ -1,39 +1,21 @@
-import ConsultlyLogo from "../images/logos/consultly.svg";
-import AmbitLogo from "../images/logos/ambit.png";
-import BarepapersLogo from "../images/logos/barepapers.svg";
-import BimLogo from "../images/logos/bim.png";
-import CDGOLogo from "../images/logos/cdgo.png";
-import ClevertechLogo from "../images/logos/clevertech.png";
-import EvercastLogo from "../images/logos/evercast.svg";
-import Howdy from "../images/logos/howdy.png";
-import JarockiMeLogo from "../images/logos/jarocki.svg";
-import JojoMobileLogo from "../images/logos/jojomobile.png";
-import MonitoLogo from "../images/logos/monito.svg";
-import MobileVikingsLogo from "../images/logos/mv.png";
-import NSNLogo from "../images/logos/nsn.svg";
-import ParabolLogo from "../images/logos/parabol.svg";
-import TastyCloudLogo from "../images/logos/tastycloud.png";
-import YearProgressLogo from "../images/logos/yearprogress.svg";
-import Minimal from "../images/logos/minimal.svg";
 import { GitHubIcon } from "@/components/icons/GitHubIcon";
 import { LinkedInIcon } from "@/components/icons/LinkedInIcon";
-import { XIcon } from "@/components/icons/XIcon";
 
 export const RESUME_DATA = {
   name: "Valentin Courtaud",
-  initials: "",
-  location: "Paris",
+  initials: "VC",
+  location: "Paris, France",
   locationLink: "https://www.google.com/maps/place/Paris",
-  about:
-    "Corporate Finance student at Skema Business School",
-  summary: "Interested in tech, healthcare and climate related topics."<br/> +
-           "Democratizing sustainable finance with re.boot."<br/> +
-           "Currently in exchange in Brasil.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
+  about: "Corporate Finance student at Skema Business School",
+  summary:
+    "Interested in tech, healthcare and climate related topics.\n" +
+    "Democratizing sustainable finance with re.boot.\n" +
+    "Currently in exchange in Brazil.",
+  avatarUrl: "https://media.licdn.com/dms/image/v2/D4E03AQFZ-O-ZYAtT7A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724146865281?e=1746057600&v=beta&t=pnCbev2bIaxPyi7J9IL5ho2_4DG0AlVxmmystfjXorI",
   personalWebsiteUrl: "https://valentin.vc",
   contact: {
     email: "valentin.courtaud@skema.edu",
-    tel: "+330695308946",
+    tel: "+33695308946",
     social: [
       {
         name: "LinkedIn",
@@ -44,16 +26,27 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Skema Business School",
-      degree: "Master in Management - MSc in Corporate Finance" <br/>
-      "Spring 2024: exchange semester Jönköping BS - Sweden" <br/>
-      "Fall 2024: exchange semester in Fundaçao Dom Cabral - Brasil",
+      school: "SKEMA Business School",
+      degree: "MSc Corporate Financial Management (Financial Advisory) - Master in Management (MiM)\n" +
+              "Main coursework: M&A Corporate Restructuring, Consulting Skills, Financial Due Diligence, Financial Modeling",
       start: "2021",
       end: "2025",
     },
     {
+      school: "Fundação Dom Cabral",
+      degree: "MSc Corporate Financial Management - Exchange Semester",
+      start: "Sep 2024",
+      end: "Dec 2024",
+    },
+    {
+      school: "Jönköping International Business School",
+      degree: "Master in Management - Exchange Semester",
+      start: "Jan 2024",
+      end: "Jun 2024",
+    },
+    {
       school: "Saint-Bénigne Highschool",
-      degree: "Two-year preparatory course to the competitive admissions of French Business Schools",
+      degree: "Preparatory Classes to the competitive exams of French Business Schools (ECE)",
       start: "2019",
       end: "2021",
     },
@@ -63,68 +56,82 @@ export const RESUME_DATA = {
       company: "Klein Blue Partners",
       link: "https://www.linkedin.com/company/klein-blue-partners/",
       badges: ["Internship"],
-      title: "Innovation Analyst | Healthtech & Greentech",
-      logo: ClevertechLogo,
+      title: "Innovation Analyst Intern",
       start: "July 2023",
       end: "December 2023",
       description:
-        "• Sourcing, analysing and benchmarking startups to support large companies open innovation policies."<br/> +
-        "• Analysis of innovation trends in the health/energy sector and consultancy assignments for our corporate clients.",
+        "• Conducted in-depth market analysis and consultancy assignments for 3 major healthcare clients (Pfizer, AstraZeneca, Vyv Group), delivering actionable insights that influenced their innovation & investment strategies.\n" +
+        "• Led comprehensive analysis of European healthcare innovation trends and developed monthly newsletters for corporate clients, synthesizing trends across biotech, medtech, AI, and e-health sectors.\n" +
+        "• Co-authored strategic healthcare publication on patient journey digitalization generating 20+ qualified enterprise leads and leading to 2 new client engagements.",
     },
     {
       company: "Doctolib",
       link: "https://www.linkedin.com/company/doctolib/",
       badges: ["Internship"],
-      title: "Product Operations Analyst",
-      logo: JojoMobileLogo,
+      title: "Product Strategy Analyst Intern",
       start: "January 2023",
       end: "June 2023",
       description:
-        "Revise the B2B subscription model's pricing and packaging strategy in France by:"<br/>+
-        "• Assessing how various medical specialties value and use Doctolib to inform pricing strategies."<br/> +
-        "• Developing segment-specific pricing and packages to boost market penetration and ARPU.",
+        "• Analyzed B2B subscription model and conducted value-metric assessment across medical specialties to inform pricing strategy redesign for French market.\n" +
+        "• Performed comprehensive willingness-to-pay analysis across medical specialties, identifying optimal pricing thresholds and value drivers.\n" +
+        "• Designed specialty-specific pricing packages projected to increase ARPU while boosting market penetration targets.",
     },
     {
       company: "imicare",
-      link: "https://www.linkedin.com/company/imicare/about/",
+      link: "https://www.linkedin.com/company/imicare/",
       badges: ["Internship"],
-      title: "Right-Hand CEO",
-      logo: ParabolLogo,
-      start: "Mai 2022",
+      title: "Right-hand CEO Intern - Station F - Incubator 42",
+      start: "May 2022",
       end: "August 2022",
       description:
-        "• Analysing KPIs, cohorts and implementing dashboards to facilitate company steering & support strategic decisions when it comes to prospecting & acquiring new clients.\n" +
-        "• Launching a referral program: financial and product reflection to obtain an efficient acquisition mode and improve retention & usage measures.",
+        "• Developed comprehensive KPI dashboards tracking user growth and cohort retention, enabling data-driven decisions on go-to-market strategy.\n" +
+        "• Restructured customer referral program through product and financial analysis, achieving 3x acquisition growth.\n" +
+        "• Implemented no-code automation systems across sales and operations functions, increasing team productivity by saving 12 hours weekly.",
     },
   ],
   skills: [
-    "Project Management",
-    "Microsoft Office suite",
     "SQL",
-    "No-code tools",
-    "Sustainable finance legislation",  
-    "DTx landscape",
+    "Microsoft Suite (Excel)",
+    "Power BI",
+    "Jira",
+    "Hubspot",
+    "Airtable",
+    "Make",
+    "Zapier",
   ],
- projects: [
-  {
-    title: "re.boot",
-    techStack: ["Project Manager"],
-    description: "Making sustainable finance the new status quo.",
-    logo: ConsultlyLogo, // Ensure 'ConsultlyLogo' is defined or imported correctly
-    link: {
-      label: "reboot-asso.com",
-      href: "https://www.reboot-asso.com/",
+  projects: [
+    {
+      title: "re.boot",
+      techStack: ["Project Manager"],
+      description: "Co-led sustainability finance bootcamps, training 150+ students and young professionals, coordinating 9-week programs with leading industry experts.",
+      link: {
+        label: "reboot-asso.com",
+        href: "https://www.reboot-asso.com/",
+      },
     },
-  }, // A comma here to separate the objects in the array
-  {
-    title: "Finance fresk",
-    techStack: ["Facilitator"],
-    description: "Raise awareness of the role of finance in the socio-ecological transition.",
-    logo: ConsultlyLogo, // Ensure 'ConsultlyLogo' is defined or imported correctly
-    link: {
-      label: "https://www.linkedin.com/company/fresque-de-la-finance/",
-      href: "https://www.linkedin.com/company/fresque-de-la-finance/",
+    {
+      title: "Finance Fresk",
+      techStack: ["Facilitator"],
+      description: "Raise awareness of the role of finance in the socio-ecological transition.",
+      link: {
+        label: "fresquedelafinance.org",
+        href: "https://fresquedelafinance.org/",
+      },
     },
-  },
-],
+  ],
+  languages: [
+    {
+      name: "French",
+      level: "Native",
+    },
+    {
+      name: "English",
+      level: "C1 - Advanced - 617 TOEFL ITP",
+    },
+    {
+      name: "Spanish",
+      level: "B2 - Intermediate",
+    },
+  ],
+  interests: ["Hiking", "Chess", "Horology", "Impressionism"],
 } as const;
