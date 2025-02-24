@@ -6,12 +6,12 @@ export const RESUME_DATA = {
   initials: "VC",
   location: "Paris, France",
   locationLink: "https://www.google.com/maps/place/Paris",
-  about: "Corporate Finance student at Skema Business School",
+  about: "MiM & Msc in Finance at Skema BS",
   summary:
     "Interested in tech, healthcare and climate related topics.\n" +
     "Democratizing sustainable finance with re.boot.\n" +
-    "Currently in exchange in Brazil.",
-  avatarUrl: "https://media.licdn.com/dms/image/v2/D4E03AQFZ-O-ZYAtT7A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724146865281?e=1746057600&v=beta&t=pnCbev2bIaxPyi7J9IL5ho2_4DG0AlVxmmystfjXorI",
+    "Looking for impact!",
+  avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
   personalWebsiteUrl: "https://valentin.vc",
   contact: {
     email: "valentin.courtaud@skema.edu",
@@ -27,22 +27,21 @@ export const RESUME_DATA = {
   education: [
     {
       school: "SKEMA Business School",
-      degree: "MSc Corporate Financial Management (Financial Advisory) - Master in Management (MiM)\n" +
-              "Main coursework: M&A Corporate Restructuring, Consulting Skills, Financial Due Diligence, Financial Modeling",
-      start: "2021",
-      end: "2025",
+      degree: "MSc Corporate Financial Management (Financial Advisory) - Master in Management (MiM)",
+      start: "September 2021",
+      end: "June 2025",
     },
     {
       school: "Fundação Dom Cabral",
       degree: "MSc Corporate Financial Management - Exchange Semester",
-      start: "Sep 2024",
-      end: "Dec 2024",
+      start: "September 2024",
+      end: "December 2024",
     },
     {
       school: "Jönköping International Business School",
       degree: "Master in Management - Exchange Semester",
-      start: "Jan 2024",
-      end: "Jun 2024",
+      start: "January 2024",
+      end: "June 2024",
     },
     {
       school: "Saint-Bénigne Highschool",
@@ -60,8 +59,8 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "• Conducted in-depth market analysis and consultancy assignments for 3 major healthcare clients (Pfizer, AstraZeneca, Vyv Group), delivering actionable insights that influenced their innovation & investment strategies.\n" +
-        "• Led comprehensive analysis of European healthcare innovation trends and developed monthly newsletters for corporate clients, synthesizing trends across biotech, medtech, AI, and e-health sectors.\n" +
+        "• Conducted in-depth market analysis and consultancy assignments for 3 major healthcare clients (Pfizer, AstraZeneca, Vyv Group), delivering actionable insights that influenced their innovation & investment strategies.\n\n" +
+        "• Led comprehensive analysis of European healthcare innovation trends and developed monthly newsletters for corporate clients, synthesizing trends across biotech, medtech, AI, and e-health sectors.\n\n" +
         "• Co-authored strategic healthcare publication on patient journey digitalization generating 20+ qualified enterprise leads and leading to 2 new client engagements.",
     },
     {
@@ -72,8 +71,8 @@ export const RESUME_DATA = {
       start: "January 2023",
       end: "June 2023",
       description:
-        "• Analyzed B2B subscription model and conducted value-metric assessment across medical specialties to inform pricing strategy redesign for French market.\n" +
-        "• Performed comprehensive willingness-to-pay analysis across medical specialties, identifying optimal pricing thresholds and value drivers.\n" +
+        "• Analyzed B2B subscription model and conducted value-metric assessment across medical specialties to inform pricing strategy redesign for French market.\n\n" +
+        "• Performed comprehensive willingness-to-pay analysis across medical specialties, identifying optimal pricing thresholds and value drivers.\n\n" +
         "• Designed specialty-specific pricing packages projected to increase ARPU while boosting market penetration targets.",
     },
     {
@@ -84,8 +83,8 @@ export const RESUME_DATA = {
       start: "May 2022",
       end: "August 2022",
       description:
-        "• Developed comprehensive KPI dashboards tracking user growth and cohort retention, enabling data-driven decisions on go-to-market strategy.\n" +
-        "• Restructured customer referral program through product and financial analysis, achieving 3x acquisition growth.\n" +
+        "• Developed comprehensive KPI dashboards tracking user growth and cohort retention, enabling data-driven decisions on go-to-market strategy.\n\n" +
+        "• Restructured customer referral program through product and financial analysis, achieving 3x acquisition growth.\n\n" +
         "• Implemented no-code automation systems across sales and operations functions, increasing team productivity by saving 12 hours weekly.",
     },
   ],
