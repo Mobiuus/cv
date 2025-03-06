@@ -8,8 +8,8 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Paris",
   about: "MiM & Msc in Finance at Skema BS",
   summary:
-    "Interested in tech, healthcare and climate related topics.\n" +
-    "Democratizing sustainable finance with re.boot.\n" +
+    "Interested in tech, healthcare and climate related topics.\n\n" +
+    "Democratizing sustainable finance with re.boot.\n\n" +
     "Looking for impact!",
   avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
   personalWebsiteUrl: "https://valentin.vc",
@@ -59,8 +59,8 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "• Conducted in-depth market analysis and consultancy assignments for 3 major healthcare clients (Pfizer, AstraZeneca, Vyv Group), delivering actionable insights that influenced their innovation & investment strategies.\n\n" +
-        "• Led comprehensive analysis of European healthcare innovation trends and developed monthly newsletters for corporate clients, synthesizing trends across biotech, medtech, AI, and e-health sectors.\n\n" +
+        "• Conducted in-depth market analysis and consultancy assignments for 3 major healthcare clients (Pfizer, AstraZeneca, Vyv Group), delivering actionable insights that influenced their innovation & investment strategies.\n\n\n" +
+        "• Led comprehensive analysis of European healthcare innovation trends and developed monthly newsletters for corporate clients, synthesizing trends across biotech, medtech, AI, and e-health sectors.\n\n\n" +
         "• Co-authored strategic healthcare publication on patient journey digitalization generating 20+ qualified enterprise leads and leading to 2 new client engagements.",
     },
     {
@@ -71,8 +71,8 @@ export const RESUME_DATA = {
       start: "January 2023",
       end: "June 2023",
       description:
-        "• Analyzed B2B subscription model and conducted value-metric assessment across medical specialties to inform pricing strategy redesign for French market.\n\n" +
-        "• Performed comprehensive willingness-to-pay analysis across medical specialties, identifying optimal pricing thresholds and value drivers.\n\n" +
+        "• Analyzed B2B subscription model and conducted value-metric assessment across medical specialties to inform pricing strategy redesign for French market.\n\n\n" +
+        "• Performed comprehensive willingness-to-pay analysis across medical specialties, identifying optimal pricing thresholds and value drivers.\n\n\n" +
         "• Designed specialty-specific pricing packages projected to increase ARPU while boosting market penetration targets.",
     },
     {
@@ -83,8 +83,8 @@ export const RESUME_DATA = {
       start: "May 2022",
       end: "August 2022",
       description:
-        "• Developed comprehensive KPI dashboards tracking user growth and cohort retention, enabling data-driven decisions on go-to-market strategy.\n\n" +
-        "• Restructured customer referral program through product and financial analysis, achieving 3x acquisition growth.\n\n" +
+        "• Developed comprehensive KPI dashboards tracking user growth and cohort retention, enabling data-driven decisions on go-to-market strategy.\n\n\n" +
+        "• Restructured customer referral program through product and financial analysis, achieving 3x acquisition growth.\n\n\n" +
         "• Implemented no-code automation systems across sales and operations functions, increasing team productivity by saving 12 hours weekly.",
     },
   ],
