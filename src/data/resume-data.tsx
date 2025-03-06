@@ -8,8 +8,8 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Paris",
   about: "MiM & Msc in Finance at Skema BS",
   summary:
-    "Interested in tech, healthcare and climate related topics.\n\n" +
-    "Democratizing sustainable finance with re.boot.\n\n" +
+    "Interested in tech, healthcare and climate related topics.\n" +
+    "Democratizing sustainable finance with re.boot.\n" +
     "Looking for impact!",
   avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
   personalWebsiteUrl: "https://valentin.vc",
@@ -59,8 +59,8 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: "December 2023",
       description:
-        "• Conducted in-depth market analysis and consultancy assignments for 3 major healthcare clients (Pfizer, AstraZeneca, Vyv Group), delivering actionable insights that influenced their innovation & investment strategies.\n\n\n" +
-        "• Led comprehensive analysis of European healthcare innovation trends and developed monthly newsletters for corporate clients, synthesizing trends across biotech, medtech, AI, and e-health sectors.\n\n\n" +
+        "• Conducted in-depth market analysis and consultancy assignments for 3 major healthcare clients (Pfizer, AstraZeneca, Vyv Group), delivering actionable insights that influenced their innovation & investment strategies.\n" +
+        "• Led comprehensive analysis of European healthcare innovation trends and developed monthly newsletters for corporate clients, synthesizing trends across biotech, medtech, AI, and e-health sectors.\n" +
         "• Co-authored strategic healthcare publication on patient journey digitalization generating 20+ qualified enterprise leads and leading to 2 new client engagements.",
     },
     {
