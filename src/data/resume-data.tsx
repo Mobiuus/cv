@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Paris",
   about: "MiM & Msc in Finance at Skema BS",
   summary:
-    "Interested in tech, healthcare and climate related topics.\n" +
+    "Interested in healthtech, finance & climate related topics.\n" +
     "Democratizing sustainable finance with re.boot.\n" +
     "Looking for impact!",
   avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
