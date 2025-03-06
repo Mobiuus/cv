@@ -71,8 +71,8 @@ export const RESUME_DATA = {
       start: "January 2023",
       end: "June 2023",
       description:
-        "• Analyzed B2B subscription model and conducted value-metric assessment across medical specialties to inform pricing strategy redesign for French market.\n\n\n" +
-        "• Performed comprehensive willingness-to-pay analysis across medical specialties, identifying optimal pricing thresholds and value drivers.\n\n\n" +
+        "• Analyzed B2B subscription model and conducted value-metric assessment across medical specialties to inform pricing strategy redesign for French market.\n" +
+        "• Performed comprehensive willingness-to-pay analysis across medical specialties, identifying optimal pricing thresholds and value drivers.\n" +
         "• Designed specialty-specific pricing packages projected to increase ARPU while boosting market penetration targets.",
     },
     {
@@ -83,8 +83,8 @@ export const RESUME_DATA = {
       start: "May 2022",
       end: "August 2022",
       description:
-        "• Developed comprehensive KPI dashboards tracking user growth and cohort retention, enabling data-driven decisions on go-to-market strategy.\n\n\n" +
-        "• Restructured customer referral program through product and financial analysis, achieving 3x acquisition growth.\n\n\n" +
+        "• Developed comprehensive KPI dashboards tracking user growth and cohort retention, enabling data-driven decisions on go-to-market strategy.\n" +
+        "• Restructured customer referral program through product and financial analysis, achieving 3x acquisition growth.\n" +
         "• Implemented no-code automation systems across sales and operations functions, increasing team productivity by saving 12 hours weekly.",
     },
   ],
