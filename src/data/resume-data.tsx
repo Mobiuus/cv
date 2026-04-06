@@ -6,7 +6,7 @@ export const RESUME_DATA = {
   initials: "VC",
   location: "Paris, France",
   locationLink: "https://www.google.com/maps/place/Paris",
-  about: "Sustainable Finance Consultant @Colombus Consulting | Treasurer @re.boot",
+  about: "Sustainable Finance Consultant @Colombus Consulting\nTreasurer @re.boot",
   summary:
     "Sustainable finance consultant at Colombus Consulting, working on ESG indicators for major French Bank.\n" +
     "Treasurer of re.boot, democratizing sustainable finance education.",
