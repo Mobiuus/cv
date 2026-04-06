@@ -6,15 +6,14 @@ export const RESUME_DATA = {
   initials: "VC",
   location: "Paris, France",
   locationLink: "https://www.google.com/maps/place/Paris",
-  about: "MiM & Msc in Finance at Skema BS",
+  about: "Sustainable Finance Consultant @Colombus Consulting | Treasurer @re.boot",
   summary:
-    "Interested in healthtech, finance & climate related topics.\n" +
-    "Democratizing sustainable finance with re.boot.\n" +
-    "Looking for impact!",
+    "Sustainable finance consultant at Colombus Consulting, working on ESG indicators for major French Bank.\n" +
+    "Treasurer of re.boot, democratizing sustainable finance education.",
   avatarUrl: "https://avatars.githubusercontent.com/u/100689677?s=400&u=86bc6d7f0d189e9af7bbe98b53bd6725242dda3f&v=4",
   personalWebsiteUrl: "https://valentin.vc",
   contact: {
-    email: "valentin.courtaud@skema.edu",
+    email: "valentin.courtaud@proton.me",
     tel: "+33695308946",
     social: [
       {
@@ -52,10 +51,19 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Colombus Consulting",
+      link: "https://www.linkedin.com/company/colombus-consulting/",
+      badges: ["Full Time"],
+      title: "Sustainable Finance Consultant",
+      start: "June 2025",
+      end: "Present",
+      description: "",
+    },
+    {
       company: "Klein Blue Partners",
       link: "https://www.linkedin.com/company/klein-blue-partners/",
       badges: ["Internship"],
-      title: "Innovation Analyst Intern",
+      title: "Consultant Intern",
       start: "July 2023",
       end: "December 2023",
       description:
@@ -89,11 +97,12 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "SQL",
-    "Microsoft Suite (Excel)",
+    "Sustainable Finance",
+    "Excel",
+    "PowerPoint",
     "Power BI",
-    "Jira",
-    "Hubspot",
+    "Alteryx",
+    "Project Management",
     "Airtable",
     "Make",
     "Zapier",
@@ -101,8 +110,8 @@ export const RESUME_DATA = {
   projects: [
     {
       title: "re.boot",
-      techStack: ["Project Manager"],
-      description: "Co-led sustainability finance bootcamps, training 150+ students and young professionals, coordinating 9-week programs with leading industry experts.",
+      techStack: ["Treasurer"],
+      description: "Co-led sustainability finance bootcamps, training 250+ students and young professionals, coordinating 9-week programs with leading industry experts.",
       link: {
         label: "reboot-asso.com",
         href: "https://www.reboot-asso.com/",
