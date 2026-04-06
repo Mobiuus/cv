@@ -132,7 +132,11 @@ export default function Page() {
                   </h4>
                 </CardHeader>
                 <CardContent className="mt-2 text-xs whitespace-pre-line">
-                  {work.description}
+                  {work.description.split(/(\*[^*]+\*)/g).map((part, i) =>
+                    part.startsWith("*") && part.endsWith("*")
+                      ? <em key={i}>{part.slice(1, -1)}</em>
+                      : part
+                  )}
                 </CardContent>
               </Card>
             );

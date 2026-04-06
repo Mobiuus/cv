@@ -57,7 +57,13 @@ export const RESUME_DATA = {
       title: "Sustainable Finance Consultant",
       start: "June 2025",
       end: "Present",
-      description: "",
+      description:
+        "• Lead production of sustainable finance indicators published in Société Générale's CSRD, with data certified by statutory auditors *(Universal Registration Document 2026, p.272)*.\n" +
+        "• Manage the production team: prioritization, coordination, and delivery across workstreams.\n" +
+        "• Coordinate with Business Units for data collection, production planning, and feasibility assessment.\n" +
+        "• Oversee the formal recognition and sign-off process for produced indicators.\n" +
+        "• Conduct feasibility analyses for requests from Finance, RSE, and Business Unit stakeholders.\n" +
+        "• Produced Equator Principles report.",
     },
     {
       company: "Klein Blue Partners",
@@ -98,6 +104,8 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Sustainable Finance",
+    "AI Agent",
+    "Claude Code",
     "Excel",
     "PowerPoint",
     "Power BI",
@@ -106,6 +114,7 @@ export const RESUME_DATA = {
     "Airtable",
     "Make",
     "Zapier",
+    "N8N",
   ],
   projects: [
     {
